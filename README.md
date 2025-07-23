@@ -1,4 +1,4 @@
-# synthetic-data
+# Synthetic Data Generation for Fine-tuning AI Models
 
 In this 2-week course you’ll learn to generate high‑quality synthetic datasets for fine‑tuning AI models using LLMs. 
 - **Week 1 – Supervised Fine‑Tuning:** Compare open‑ vs. closed‑source models, craft prompt templates and pipelines, build a distilabel SFT dataset, then explore and filter it to improve data quality.  
